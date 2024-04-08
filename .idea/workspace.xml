@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c6b0059-2436-4f35-87ca-d6e978c27925" name="Changes" comment="" />
+    <list default="true" id="4c6b0059-2436-4f35-87ca-d6e978c27925" name="Changes" comment="博客分享">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +22,6 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="9278cc1a-2ee2-4593-a6b5-195ddd6e5851" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -60,6 +59,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workapp\java\blog\java-blog\实战排查\实战问题" />
       <recent name="D:\github\知识星球\知识分享\数据库相关\image" />
       <recent name="D:\github\知识星球\知识分享\分布式相关\image" />
     </key>
@@ -118,8 +118,16 @@
       <workItem from="1690114008751" duration="3714000" />
       <workItem from="1690118041532" duration="1892000" />
       <workItem from="1690120134876" duration="12000" />
-      <workItem from="1712557481772" duration="531000" />
+      <workItem from="1712557481772" duration="1265000" />
     </task>
+    <task id="LOCAL-00001" summary="博客分享">
+      <created>1712558029885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712558029885</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,5 +143,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="博客分享" />
+    <option name="LAST_COMMIT_MESSAGE" value="博客分享" />
   </component>
 </project>
