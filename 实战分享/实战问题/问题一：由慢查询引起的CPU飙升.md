@@ -30,7 +30,7 @@ explain SQL发现走了简单索引，扫描行数大概是10000条左右，取�
 通过腾讯云服务器发现服务器的CPU使用率过高，如图下所示：
 
 
-![CPU.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f3f7bdb511eb4d0d970c9bb12a46f80e~tplv-k3u1fbpfcp-watermark.image?)
+![CPU.png](./image/cpu飙升.png)
 
 也可以使用在服务器使用top命令观察CPU状态，但是top只能查看当时。
 
